@@ -1,0 +1,5 @@
+/home/povstenko/Документы/CSEW/CSEW/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/povstenko/Документы/CSEW/CSEW/bin/Debug/CSEW.exe.mdb
+/home/povstenko/Документы/CSEW/CSEW/bin/Debug/CSEW.exe
+/home/povstenko/Документы/CSEW/CSEW/obj/x86/Debug/CSEW.exe
+/home/povstenko/Документы/CSEW/CSEW/obj/x86/Debug/CSEW.exe.mdb
