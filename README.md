@@ -1,4 +1,4 @@
-# flight-simulator
+# Flight Simulator
 C# OOP princeples lesson
 
 ## Программа «Тренажер пилота самолета»
